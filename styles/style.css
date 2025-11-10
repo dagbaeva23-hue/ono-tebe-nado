@@ -216,7 +216,7 @@
   grid-column: 2 / 3;
   grid-row: 2 / 3; 
   font-size: 20px;
-  margin-bottom: 170px;
+  margin-bottom: 160px; /*я попробовала изменить, но у меня через плагин все сходится почему то*/
 }
 
 .about__text {
